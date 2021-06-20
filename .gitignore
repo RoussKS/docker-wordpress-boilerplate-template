@@ -1,0 +1,6 @@
+# IDE & System files
+.idea/
+.DS_STORE
+
+# App files
+.env
